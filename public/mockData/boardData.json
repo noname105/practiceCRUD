@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "첫 번째 게시글",
+    "content": "이것은 첫 번째 게시글입니다.",
+    "author": "John Doe",
+    "createdAt": "23/11/02"
+  },
+  {
+    "id": 2,
+    "title": "두 번째 게시글",
+    "content": "이것은 두 번째 게시글입니다.",
+    "author": "Jane Doe",
+    "createdAt": "23/11/03"
+  },
+  {
+    "id": 3,
+    "title": "세 번째 게시글",
+    "content": "이것은 세 번째 게시글입니다.",
+    "author": "James Smith",
+    "createdAt": "23/11/04"
+  }
+]
